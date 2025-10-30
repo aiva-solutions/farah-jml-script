@@ -23,6 +23,7 @@ This VBA macro automatically triggers when any Word document opens and searches 
 - Microsoft Word (Windows version)
 - Macros enabled in Word security settings
 - Administrator access (for Normal.dotm installation method)
+- **No additional PowerShell packages needed** - script uses built-in Windows PowerShell features
 
 ## Installation
 
