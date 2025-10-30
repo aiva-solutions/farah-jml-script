@@ -26,8 +26,9 @@ This VBA macro automatically triggers when any Word document opens and searches 
 
 ## Installation
 
-**Quick Install:** Run `.\Install-Macro.ps1` in PowerShell (see [QUICK-INSTALL.md](QUICK-INSTALL.md))  
-**Manual Install:** See [INSTALLATION.md](INSTALLATION.md) for detailed step-by-step instructions
+**📥 New Users:** Start with [INSTALL-INSTRUCTIONS.md](INSTALL-INSTRUCTIONS.md) - Complete step-by-step guide from download to installation  
+**⚡ Quick Reference:** See [QUICK-INSTALL.md](QUICK-INSTALL.md) for abbreviated commands  
+**🔧 Manual Install:** See [INSTALLATION.md](INSTALLATION.md) for manual VBA Editor method
 
 Two installation methods are available:
 1. **Automated PowerShell Script** - One command installation (recommended)
